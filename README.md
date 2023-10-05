@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Banner de LinkedIn](https://github.com/EvelynCalcines/EvelynCalcines/blob/main/assets/125571812/1362fbdc-e2fa-4e58-b07b-5b1334b2cd65)
+![Banner de LinkedIn](https://github.com/EvelynCalcines/EvelynCalcines/assets/125571812/46501d18-7e56-426f-a32d-cdc2b1d79f8b)
 
 **Contacto:**
 - Correo Electrónico: [evelyncc132002@gmail.com](mailto:evelyncc132002@gmail.com)
